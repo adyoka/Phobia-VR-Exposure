@@ -14,6 +14,12 @@ Sayazhan Sagynay
 
 ---
 
+#### Table of contents:
+* [Why VR?](https://github.com/adyoka/Phobia-VR-Exposure#why-virtual-reality)
+* [Objectives](https://github.com/adyoka/Phobia-VR-Exposure#project-objectives)
+* [Overview](https://github.com/adyoka/Phobia-VR-Exposure#project-overview)
+* [Installation](https://github.com/adyoka/Phobia-VR-Exposure#installation)
+* [Tech](https://github.com/adyoka/Phobia-VR-Exposure#tech)
 
 
 #### Why Virtual Reality?
@@ -49,24 +55,27 @@ Our application mainly consists of three scenes: a menu from which the user sele
 **Menu Scene**
 
 This scene's aim is to get a user choice and then move the user to a chosen scene.
-img
+
+[Menu Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/menu-screen.png)
 
 **Game 1​ — Acrophobia Scene**
 
 The goal was to make a virtual reality where the patient faces his/her fear of heights to overcome acrophobia in the most challenging way - by walking down high-altitude tightrope.
 We took an intimidating picture for the basis of a woman walking down the rope at an altitude and simulating her surroundings and conditions.
 
-img1
+[Idea](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/idea.png)
 
-img2 Game scene Snapshot
+[Game 1 Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game1.png)
 
-img3
+[](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game1-1.png)
+
 
 **Game 2​ — Arachnophobia Scene**
 
 The goal was to create an environment of virtual reality where the user is constantly surrounded by large spiders; wherever the user goes, spiders move around him/her.
 
 
+[Game 2 Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game2.png)
 
 
 ### Installation
@@ -83,12 +92,12 @@ cd phobia-sim
 4) In the menu, select a phobia.
 5) Test your fear.
 
-**For acrophobia:**
+For acrophobia:
 * Use ‘WASD’ keyboard OR allow the patient to walk by himself/herself.
 * Walk along the tightrope; If user accidentally falls down the platform, the program will return
 the user to the initial position.
 
-**For arachnophobia:**
+For arachnophobia:
 * Use ‘WASD’ keyboard OR allow the patient to walk by himself/herself.
 * Walk around; wherever the user goes, spiders will follow and constantly surround him/her.
 

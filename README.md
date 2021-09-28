@@ -113,7 +113,7 @@ For arachnophobia:
 
 
 ### Tech
-● Scripts were written in C#
+* Scripts were written in C#
 
-● Game scenes were developed in Unity 3D engine using Oculus Integration Package assets
+* Game scenes were developed in Unity 3D engine using Oculus Integration Package assets
 

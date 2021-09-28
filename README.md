@@ -21,6 +21,8 @@ Sayazhan Sagynay
 * [Installation](https://github.com/adyoka/Phobia-VR-Exposure#installation)
 * [Tech](https://github.com/adyoka/Phobia-VR-Exposure#tech)
 
+---
+
 
 #### Why Virtual Reality?
 In attempt to treat various fears, modern medicine borders with Virtual Reality, which has great medical potential according to Chris Brewin, a professor of clinical psychology at University College London. Practicing a technique called exposure therapy, experts make patients gradually and consistently face a specific fear. Most studies agree that patients are substantially more comfortable with virtual reality immersion treatments. They promote clinical interaction and medication adherence. Simulating a fear exposure, the user is able to explore the roots of the phobia within the constraints of VR.Virtual reality provides many benefits, such as: accessibility, privacy, facilitation of care, patient safety, financial gain, and more:
@@ -56,18 +58,18 @@ Our application mainly consists of three scenes: a menu from which the user sele
 
 This scene's aim is to get a user choice and then move the user to a chosen scene.
 
-[Menu Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/menu-screen.png)
+![Menu Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/menu-screen.png)
 
 **Game 1​ — Acrophobia Scene**
 
 The goal was to make a virtual reality where the patient faces his/her fear of heights to overcome acrophobia in the most challenging way - by walking down high-altitude tightrope.
 We took an intimidating picture for the basis of a woman walking down the rope at an altitude and simulating her surroundings and conditions.
 
-[Idea](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/idea.png)
+![Idea](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/idea.png)
 
-[Game 1 Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game1.png)
+![Game 1 Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game1.png)
 
-[](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game1-1.png)
+![](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game1-1.png)
 
 
 **Game 2​ — Arachnophobia Scene**
@@ -75,7 +77,7 @@ We took an intimidating picture for the basis of a woman walking down the rope a
 The goal was to create an environment of virtual reality where the user is constantly surrounded by large spiders; wherever the user goes, spiders move around him/her.
 
 
-[Game 2 Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game2.png)
+![Game 2 Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game2.png)
 
 
 ### Installation

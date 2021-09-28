@@ -1,13 +1,15 @@
 # Fight-or-Flight
----
+
 ### Gamified VR Simulator for Acrophobia and Arachnophobia Exposure Therapy
 
 
 VR fear-oriented project, called ​Fight-or-Flight,​ which presents a training platform that will expose its audience to two most common phobias (arachnophobia and acrophobia) in order to slowly eliminate the fear. It will allow the therapists to control the environment entirely, making VR extremely convenient. A medium between reality and simulation, it will allow battles with phobias in a safer way.
 
-#### Team:
+### Team:
 Adilet Majit (adilet@nyu.edu, github: adyoka)
+
 Amina Kobenova
+
 Sayazhan Sagynay
 
 ---
@@ -25,43 +27,49 @@ Deliberately designed to support anxiety disorder exposure therapy, the VR softw
 Having VR allows the therapist to monitor ultimate stimulation for optimal viewing. For example, only one take-off and landing per flight is bound by real-world limitations.VR training helps the therapist to thoroughly manipulate conditions, such as landing the digital aircraft, in order to best match the patient.
 
 
-#### Project Objectives:
-● To take advantage of VR as potentially an extremely powerful tool for the psychiatric community.
-● To utilize up-to-date modern technologies to benefit its creators.
-● To create a sense of presence for total immersive experience.
-● To use our current skillage to attempt to tame one of the most ever-lasting problems of
+### Project Objectives:
+* To take advantage of VR as potentially an extremely powerful tool for the psychiatric community.
+* To utilize up-to-date modern technologies to benefit its creators.
+* To create a sense of presence for total immersive experience.
+* To use our current skillage to attempt to tame one of the most ever-lasting problems of
 medicine and psychology.
-● To provide patients with a strong feeling of enhanced security to stimulate the clinical
+* To provide patients with a strong feeling of enhanced security to stimulate the clinical
 progress.
-● To showcase the feasibility of implementation and of search of solutions to eliminate
+* To showcase the feasibility of implementation and of search of solutions to eliminate
 phobias for various groups: college students, teachers, graduate school students and even
 high school students.
-● To learn a cross-platform game engine - Unity 3D engine.
-● To master the application of Oculus Rift VR platform.
-● To acquire a knowledge of a general-purpose programming language - C#.
+* To learn a cross-platform game engine - Unity 3D engine.
+* To master the application of Oculus Rift VR platform.
+* To acquire a knowledge of a general-purpose programming language - C#.
 ---
 
-#### Project Overview
+### Project Overview
 Our application mainly consists of three scenes: a menu from which the user selects a feared phobia and two phobia scenes-acrophobia and arachnophobia respectively.
 
 **Menu Scene**
+
 This scene's aim is to get a user choice and then move the user to a chosen scene.
 img
 
 **Game 1​ — Acrophobia Scene**
+
 The goal was to make a virtual reality where the patient faces his/her fear of heights to overcome acrophobia in the most challenging way - by walking down high-altitude tightrope.
 We took an intimidating picture for the basis of a woman walking down the rope at an altitude and simulating her surroundings and conditions.
+
 img1
+
 img2 Game scene Snapshot
+
 img3
 
 **Game 2​ — Arachnophobia Scene**
+
 The goal was to create an environment of virtual reality where the user is constantly surrounded by large spiders; wherever the user goes, spiders move around him/her.
 
 
 
 
-#### Installation
+### Installation
 
 
 1. Choose a place on your computer for the project to reside and open a terminal to that location.
@@ -85,7 +93,7 @@ the user to the initial position.
 * Walk around; wherever the user goes, spiders will follow and constantly surround him/her.
 
 
-#### Tech
+### Tech
 ● Scripts were written in C#
 ● Game scenes were developed in Unity 3D engine using Oculus Integration Package assets
 

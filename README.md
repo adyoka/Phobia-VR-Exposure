@@ -22,7 +22,7 @@ Sayazhan Sagynay
 * [Tech](https://github.com/adyoka/Phobia-VR-Exposure#tech)
 
 ---
-
+&nbsp
 
 #### Why Virtual Reality?
 In attempt to treat various fears, modern medicine borders with Virtual Reality, which has great medical potential according to Chris Brewin, a professor of clinical psychology at University College London. Practicing a technique called exposure therapy, experts make patients gradually and consistently face a specific fear. Most studies agree that patients are substantially more comfortable with virtual reality immersion treatments. They promote clinical interaction and medication adherence. Simulating a fear exposure, the user is able to explore the roots of the phobia within the constraints of VR.Virtual reality provides many benefits, such as: accessibility, privacy, facilitation of care, patient safety, financial gain, and more:
@@ -49,6 +49,8 @@ high school students.
 * To learn a cross-platform game engine - Unity 3D engine.
 * To master the application of Oculus Rift VR platform.
 * To acquire a knowledge of a general-purpose programming language - C#.
+
+&nbsp
 ---
 
 ### Project Overview
@@ -79,6 +81,7 @@ The goal was to create an environment of virtual reality where the user is const
 
 ![Game 2 Scene snapshot](https://github.com/adyoka/Phobia-VR-Exposure/blob/master/img/game2.png)
 
+&nbsp
 
 ### Installation
 
@@ -106,5 +109,6 @@ For arachnophobia:
 
 ### Tech
 ● Scripts were written in C#
+
 ● Game scenes were developed in Unity 3D engine using Oculus Integration Package assets
 
